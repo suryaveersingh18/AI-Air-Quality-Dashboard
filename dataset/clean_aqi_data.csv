@@ -1,0 +1,495 @@
+city,station,last_update,CO,NH3,NO2,OZONE,PM10,PM2.5,SO2
+Agartala,"Bardowali, Agartala - Tripura SPCB",14-02-2025 17:00:00,24.0,10.0,21.0,172.0,45.0,31.0,22.0
+Agra,"Manoharpur, Agra - UPPCB",14-02-2025 17:00:00,7.0,1.0,18.0,9.0,30.0,32.0,14.0
+Agra,"Rohta, Agra - UPPCB",14-02-2025 17:00:00,25.0,4.0,10.0,10.0,31.0,21.0,14.0
+Agra,"Sanjay Palace, Agra - UPPCB",14-02-2025 17:00:00,40.0,6.178841309823677,30.0,82.0,34.0,5.0,8.0
+Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",14-02-2025 17:00:00,24.0,2.0,23.0,22.0,42.0,12.0,11.0
+Agra,"Shahjahan Garden, Agra - UPPCB",14-02-2025 17:00:00,12.0,1.0,35.0,65.0,77.0,14.0,53.0
+Agra,"Shastripuram, Agra - UPPCB",14-02-2025 17:00:00,12.0,2.0,30.0,7.0,56.0,80.5592105263158,14.0
+Ahmedabad,"Chandkheda, Ahmedabad - IITM",14-02-2025 17:00:00,46.0,5.0,76.0,176.0,114.0,134.0,24.0
+Ahmedabad,"Gyaspur, Ahmedabad - IITM",14-02-2025 17:00:00,27.0,6.0,79.0,82.0,168.0,229.0,80.0
+Ahmedabad,"Maninagar, Ahmedabad - GPCB",14-02-2025 17:00:00,25.0,6.178841309823677,30.0,27.0,147.0,68.0,33.0
+Ahmedabad,"Raikhad, Ahmedabad - IITM",14-02-2025 17:00:00,28.0,10.0,87.0,65.0,136.0,174.0,29.0
+Ahmedabad,"Rakhial, Ahmedabad - IITM",14-02-2025 17:00:00,62.0,3.0,94.0,203.0,107.0,137.0,65.0
+Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",14-02-2025 17:00:00,35.0,4.0,20.0,32.0,98.0,108.0,2.0
+Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",14-02-2025 17:00:00,34.37341772151899,6.178841309823677,35.87305122494432,58.0,124.0,137.0,18.0
+Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",14-02-2025 17:00:00,51.0,16.0,39.0,47.0,101.23632385120351,80.5592105263158,12.0
+Ahmedabad,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",14-02-2025 17:00:00,66.0,4.0,90.0,47.0,143.0,155.0,24.0
+Ahmednagar,"Tarakpur, Ahmednagar - MPCB",14-02-2025 17:00:00,44.0,6.0,25.0,174.0,155.0,160.0,5.0
+Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",14-02-2025 17:00:00,3.0,1.0,35.87305122494432,14.0,70.0,27.0,2.0
+Ajmer,"Civil Lines,  Ajmer - RSPCB",14-02-2025 17:00:00,46.0,9.0,92.0,18.0,100.0,62.0,9.0
+Akola,"Ramdaspeth, Akola - MPCB",14-02-2025 17:00:00,32.0,6.0,27.0,52.0,79.0,56.0,11.0
+Alwar,"Moti Doongri, Alwar - RSPCB",14-02-2025 17:00:00,43.0,13.0,50.0,48.0,72.0,44.0,22.0
+Amaravati,"Secretariat, Amaravati - APPCB",14-02-2025 17:00:00,28.0,4.0,14.0,38.0,54.0,34.0,16.0
+Amravati,"Shivneri Colony, Amravati - MPCB",14-02-2025 17:00:00,21.0,1.0,20.0,48.0,90.0,50.0,4.0
+Amravati,"Shri Shivaji Science College, Amaravati - MPCB",14-02-2025 17:00:00,23.0,1.0,16.0,49.0,99.0,52.0,13.0
+Amritsar,"Golden Temple, Amritsar - PPCB",14-02-2025 17:00:00,44.0,7.0,21.0,31.0,79.0,55.0,20.0
+Anantapur,"Gulzarpet, Anantapur - APPCB",14-02-2025 17:00:00,7.0,4.0,29.0,46.0,75.0,70.0,12.0
+Angul,"Hakimapada, Angul - OSPCB",14-02-2025 17:00:00,86.0,4.0,26.0,53.0,99.0,68.0,41.0
+Ankleshwar,"GIDC, Ankleshwar - GPCB",14-02-2025 17:00:00,59.0,4.0,78.0,38.0,120.0,135.0,51.0
+Araria,"Kharahiya Basti, Araria - BSPCB",14-02-2025 17:00:00,34.37341772151899,4.0,7.0,10.0,61.0,76.0,14.0
+Ariyalur,"Keelapalur, Ariyalur - TNPCB",14-02-2025 17:00:00,34.37341772151899,1.0,10.0,49.0,48.0,38.0,9.0
+Arrah,"New DM Office, Arrah - BSPCB",14-02-2025 17:00:00,18.0,1.0,7.0,71.0,77.0,30.0,9.0
+Asansol,"Asansol Court Area, Asansol - WBPCB",14-02-2025 17:00:00,32.0,4.0,44.0,43.0,132.0,178.0,27.0
+Asansol,"Evelyn Lodge, Asansol - WBPCB",14-02-2025 17:00:00,44.0,7.0,37.0,43.0,145.0,124.0,14.0
+Asansol,"Mahabir Colliery, Asansol - WBPCB",14-02-2025 17:00:00,41.0,11.0,21.0,56.0,121.0,92.0,28.0
+Asansol,"Trivenidevi Bhalotia College, Asansol - WBPCB",14-02-2025 17:00:00,85.0,2.0,42.0,102.0,148.0,112.0,29.0
+Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",14-02-2025 17:00:00,29.0,1.0,2.0,40.0,118.0,52.0,11.0
+Aurangabad,"MIDC Chilkalthana, Aurangabad - MPCB",14-02-2025 17:00:00,13.0,2.0,45.0,27.0,96.0,75.0,8.0
+Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",14-02-2025 17:00:00,84.0,10.0,32.0,80.0,85.0,80.5592105263158,30.0
+Aurangabad,"Rachnakar Colony, Aurangabad - MPCB",14-02-2025 17:00:00,21.0,4.0,40.0,49.0,90.0,72.0,20.0
+Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",14-02-2025 17:00:00,24.0,3.0,15.0,86.0,94.0,79.0,49.0
+Badlapur,"Katrap, Badlapur - MPCB",14-02-2025 17:00:00,31.0,4.0,40.0,60.0,96.0,70.0,18.0
+Baghpat,"Sardar Patel Inter College, Baghpat - UPPCB",14-02-2025 17:00:00,42.0,3.0,29.0,59.0,125.0,39.0,30.0
+Balasore,"Kalidaspur, Balasore - OSPCB",14-02-2025 17:00:00,39.0,4.0,22.0,175.0,124.0,134.0,20.0
+Banswara,"Rati Talai, Banswara - RSPCB",14-02-2025 17:00:00,24.0,6.0,40.0,176.0,133.0,79.0,7.0
+Baran,"Bamboliya, Baran - RSPCB",14-02-2025 17:00:00,36.0,4.0,35.0,82.0,79.0,45.0,14.0
+Barbil,"Forest Office, Barbil - OSPCB",14-02-2025 17:00:00,29.0,3.0,18.0,8.0,113.0,64.0,21.0
+Bareilly,"Civil Lines, Bareilly - UPPCB",14-02-2025 17:00:00,14.0,6.178841309823677,35.87305122494432,16.0,101.23632385120351,80.5592105263158,17.03181818181818
+Bareilly,"Rajendra Nagar, Bareilly - UPPCB",14-02-2025 17:00:00,15.0,1.0,3.0,16.0,36.0,22.0,24.0
+Baripada,"Meher Colony, Baripada - OSPCB",14-02-2025 17:00:00,39.0,5.0,24.0,72.0,98.0,79.0,21.0
+Barmer,"Railway Colony, Barmer - RSPCB",14-02-2025 17:00:00,30.0,7.0,48.0,56.0,154.0,72.0,7.0
+Barrackpore,"SVSPA Campus, Barrackpore - WBPCB",14-02-2025 17:00:00,105.0,10.0,23.0,62.0,142.0,124.0,13.0
+Bathinda,"Hardev Nagar, Bathinda - PPCB",14-02-2025 17:00:00,33.0,6.178841309823677,23.0,46.304255319148936,47.0,32.0,15.0
+Begusarai,"Lohiyanagar, Begusarai - BSPCB",14-02-2025 17:00:00,83.0,15.0,64.0,20.0,114.0,94.0,17.0
+Belapur,"CBD Belapur, Belapur - MPCB",14-02-2025 17:00:00,59.0,6.178841309823677,44.0,50.0,144.0,119.0,21.0
+Bengaluru,"BTM Layout, Bengaluru - CPCB",14-02-2025 17:00:00,42.0,2.0,40.0,27.0,32.0,38.0,7.0
+Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",14-02-2025 17:00:00,57.0,2.0,12.0,50.0,118.0,88.0,40.0
+Bengaluru,"City Railway Station, Bengaluru - KSPCB",14-02-2025 17:00:00,75.0,6.178841309823677,43.0,46.304255319148936,100.0,80.5592105263158,12.0
+Bengaluru,"Hebbal, Bengaluru - KSPCB",14-02-2025 17:00:00,20.0,3.0,70.0,22.0,96.0,65.0,10.0
+Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",14-02-2025 17:00:00,25.0,2.0,66.0,101.0,77.0,56.0,19.0
+Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",14-02-2025 17:00:00,30.0,1.0,12.0,23.0,97.0,70.0,12.0
+Bengaluru,"Jigani, Bengaluru - KSPCB",14-02-2025 17:00:00,34.0,6.178841309823677,35.87305122494432,25.0,96.0,106.0,14.0
+Bengaluru,"Kasturi Nagar, Bengaluru - KSPCB",14-02-2025 17:00:00,31.0,3.0,17.0,38.0,40.0,38.0,9.0
+Bengaluru,"Peenya, Bengaluru - CPCB",14-02-2025 17:00:00,52.0,3.0,22.0,46.304255319148936,92.0,79.0,11.0
+Bengaluru,"RVCE-Mailasandra, Bengaluru - KSPCB",14-02-2025 17:00:00,45.0,6.178841309823677,35.87305122494432,25.0,121.0,56.0,6.0
+Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",14-02-2025 17:00:00,41.0,6.178841309823677,29.0,46.304255319148936,36.0,80.5592105263158,5.0
+Bengaluru,"Shivapura_Peenya, Bengaluru - KSPCB",14-02-2025 17:00:00,55.0,6.178841309823677,21.0,30.0,86.0,74.0,9.0
+Bengaluru,"Silk Board, Bengaluru - KSPCB",14-02-2025 17:00:00,35.0,2.0,23.0,18.0,169.0,63.0,11.0
+Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",14-02-2025 17:00:00,68.0,3.0,28.0,24.0,121.0,63.0,15.0
+Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",14-02-2025 17:00:00,19.0,1.0,24.0,18.0,55.0,41.0,4.0
+Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",14-02-2025 17:00:00,29.0,8.0,12.0,66.0,32.0,37.0,22.0
+Bharatpur,"Krishna Nagar, Bharatpur - RSPCB",14-02-2025 17:00:00,12.0,5.0,29.0,89.0,78.0,39.0,8.0
+Bhilai,"32Bungalows, Bhilai - CECB",14-02-2025 17:00:00,17.0,6.0,34.0,21.0,40.0,26.0,5.0
+Bhilai,"Civic Center, Bhilai - Bhilai Steel Plant",14-02-2025 17:00:00,42.0,2.0,8.0,21.0,46.0,25.0,11.0
+Bhilai,"Hathkhoj, Bhilai - CECB",14-02-2025 17:00:00,22.0,7.0,43.0,15.0,68.0,47.0,37.0
+Bhilwara,"Pratap Nagar, Bhilwara - RSPCB",14-02-2025 17:00:00,18.0,8.0,40.0,62.0,105.0,122.0,27.0
+Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",14-02-2025 17:00:00,93.0,12.0,49.0,40.0,99.0,94.0,12.0
+Bhiwadi,"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",14-02-2025 17:00:00,20.0,6.0,45.0,89.0,128.0,77.0,10.0
+Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",14-02-2025 17:00:00,22.0,4.0,55.0,57.0,128.0,144.0,18.0
+Bhopal,"Idgah Hills, Bhopal - MPPCB",14-02-2025 17:00:00,30.0,3.0,35.0,74.0,71.0,35.0,17.0
+Bhopal,"Paryavaran Parisar, Bhopal - MPPCB",14-02-2025 17:00:00,12.0,6.0,40.0,44.0,111.0,67.0,8.0
+Bhopal,"T T Nagar, Bhopal - MPPCB",14-02-2025 17:00:00,53.0,20.0,53.0,96.0,104.0,34.0,26.0
+Bhubaneswar,"Lingraj Mandir, Bhubaneswar - OSPCB",14-02-2025 17:00:00,62.0,6.0,31.0,67.0,151.0,156.0,25.0
+Bhubaneswar,"Patia, Bhubaneswar - OSPCB",14-02-2025 17:00:00,29.0,4.0,20.0,229.0,166.0,168.0,18.0
+Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",14-02-2025 17:00:00,34.37341772151899,6.178841309823677,35.87305122494432,31.0,101.23632385120351,80.5592105263158,17.03181818181818
+Bikaner,"MM Ground, Bikaner - RSPCB",14-02-2025 17:00:00,38.0,9.0,58.0,76.0,152.0,58.0,7.0
+Bilaspur,"Mangala, Bilaspur - NTPC",14-02-2025 17:00:00,22.0,6.178841309823677,16.0,46.304255319148936,49.0,38.0,16.0
+Bileipada,"Tata Township, Bileipada - OSPCB",14-02-2025 17:00:00,61.0,6.0,4.0,26.0,129.0,73.0,38.0
+Boisar,"Khaira, Boisar - MPCB",14-02-2025 17:00:00,19.0,10.0,20.0,71.0,94.0,63.0,39.0
+Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",14-02-2025 17:00:00,58.0,7.0,9.0,63.0,85.0,65.0,17.0
+Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",14-02-2025 17:00:00,26.0,12.0,65.0,27.0,128.0,46.0,19.0
+Bundi,"New Colony, Bundi - RSPCB",14-02-2025 17:00:00,26.0,14.0,42.0,84.0,106.0,58.0,10.0
+Buxar,"Charitra Van, Buxar - BSPCB",14-02-2025 17:00:00,43.0,4.0,5.0,74.0,92.0,60.0,8.0
+Byasanagar,"Ferro Chrome Colony, Byasanagar - OSPCB",14-02-2025 17:00:00,42.0,3.0,23.0,182.0,141.0,148.0,31.0
+Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",14-02-2025 17:00:00,67.0,3.0,6.0,35.0,242.0,284.0,13.0
+Chamarajanagar,"Urban, Chamarajanagar - KSPCB",14-02-2025 17:00:00,33.0,2.0,30.0,36.0,50.0,35.0,5.0
+Chandigarh,"Sector 22, Chandigarh - CPCC",14-02-2025 17:00:00,37.0,17.0,30.0,102.0,63.0,50.0,21.0
+Chandigarh,"Sector-25, Chandigarh - CPCC",14-02-2025 17:00:00,16.0,9.0,30.0,50.0,99.0,87.0,11.0
+Chandigarh,"Sector-53, Chandigarh - CPCC",14-02-2025 17:00:00,44.0,6.178841309823677,35.87305122494432,55.0,101.23632385120351,80.5592105263158,17.03181818181818
+Chandrapur,"Chauhan Colony, Chandrapur - MPCB",14-02-2025 17:00:00,11.0,2.0,38.0,23.0,146.0,80.5592105263158,20.0
+Chandrapur,"MIDC Khutala, Chandrapur - MPCB",14-02-2025 17:00:00,19.0,1.0,33.0,55.0,74.0,37.0,17.03181818181818
+Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",14-02-2025 17:00:00,14.0,7.0,18.0,15.0,92.0,102.0,5.0
+Chengalpattu,"Crescent University, Chengalpattu - TNPCB",14-02-2025 17:00:00,20.0,2.0,14.0,6.0,74.0,66.0,25.0
+Chennai,"Alandur Bus Depot, Chennai - CPCB",14-02-2025 17:00:00,42.0,4.0,19.0,25.0,68.0,54.0,15.0
+Chennai,"Arumbakkam, Chennai - TNPCB",14-02-2025 17:00:00,34.37341772151899,2.0,12.0,46.304255319148936,57.0,30.0,6.0
+Chennai,"Kodungaiyur, Chennai - TNPCB",14-02-2025 17:00:00,34.0,4.0,24.0,34.0,49.0,22.0,5.0
+Chennai,"Manali Village, Chennai - TNPCB",14-02-2025 17:00:00,34.37341772151899,1.0,35.87305122494432,33.0,55.0,29.0,16.0
+Chennai,"Manali, Chennai - CPCB",14-02-2025 17:00:00,100.0,4.0,16.0,17.0,114.0,19.0,18.0
+Chennai,"Perungudi, Chennai - TNPCB",14-02-2025 17:00:00,39.0,3.0,12.0,16.0,83.0,41.0,7.0
+Chennai,"Royapuram, Chennai - TNPCB",14-02-2025 17:00:00,28.0,3.0,36.0,17.0,44.0,27.0,8.0
+Chennai,"Velachery Res. Area, Chennai - CPCB",14-02-2025 17:00:00,30.0,5.0,14.0,8.0,44.0,48.0,9.0
+Chhal,"Nawapara SECL Colony, Chhal - CECB",14-02-2025 17:00:00,19.0,3.0,30.0,41.0,77.0,49.0,13.0
+Chhapra,"Darshan Nagar, Chhapra - BSPCB",14-02-2025 17:00:00,8.0,5.0,17.0,64.0,66.0,55.0,17.03181818181818
+Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",14-02-2025 17:00:00,32.0,1.0,19.0,24.0,89.0,80.0,12.0
+Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",14-02-2025 17:00:00,28.0,6.178841309823677,35.87305122494432,42.0,101.23632385120351,80.5592105263158,17.03181818181818
+Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",14-02-2025 17:00:00,17.0,4.0,16.0,31.0,74.0,82.0,2.0
+Chittorgarh,"Shastri Nagar, Chittorgarh - RSPCB",14-02-2025 17:00:00,31.0,15.0,33.0,68.0,134.0,92.0,13.0
+Churu,"Subash Chowk, Churu - RSPCB",14-02-2025 17:00:00,28.0,7.0,50.0,163.0,134.0,60.0,5.0
+Coimbatore,"PSG College of Arts and Science, Coimbatore - TNPCB",14-02-2025 17:00:00,34.37341772151899,2.0,13.0,5.0,101.23632385120351,91.0,24.0
+Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB",14-02-2025 17:00:00,23.0,1.0,26.0,102.0,82.0,64.0,19.0
+Cuddalore,"Semmandalam, Cuddalore - TNPCB",14-02-2025 17:00:00,34.37341772151899,6.178841309823677,22.0,2.0,101.23632385120351,80.5592105263158,17.03181818181818
+Cuttack,"CDA Area, Cuttack - OSPCB",14-02-2025 17:00:00,57.0,3.0,75.0,256.0,162.0,134.0,7.0
+Damoh,"Shrivastav Colony, Damoh - MPPCB",14-02-2025 17:00:00,22.0,6.178841309823677,35.87305122494432,46.304255319148936,101.23632385120351,80.5592105263158,18.0
+Dausa,"Khatikan Mohalla, Dausa - RSPCB",14-02-2025 17:00:00,35.0,9.0,69.0,68.0,138.0,45.0,10.0
+Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",14-02-2025 17:00:00,39.0,2.0,13.0,19.0,102.0,99.0,7.0
+Dehradun,"Doon University, Dehradun - UKPCB",14-02-2025 17:00:00,20.0,6.178841309823677,3.0,70.0,79.0,56.0,1.0
+Delhi,"Alipur, Delhi - DPCC",14-02-2025 17:00:00,36.0,10.0,45.0,75.0,120.0,87.0,12.0
+Delhi,"Anand Vihar, Delhi - DPCC",14-02-2025 17:00:00,39.0,6.178841309823677,35.87305122494432,22.0,149.0,110.0,25.0
+Delhi,"Ashok Vihar, Delhi - DPCC",14-02-2025 17:00:00,54.0,8.0,50.0,82.0,101.23632385120351,99.0,27.0
+Delhi,"Aya Nagar, Delhi - IMD",14-02-2025 17:00:00,68.0,6.178841309823677,17.0,34.0,72.0,114.0,17.03181818181818
+Delhi,"Bawana, Delhi - DPCC",14-02-2025 17:00:00,24.0,5.0,24.0,69.0,127.0,154.0,13.0
+Delhi,"Burari Crossing, Delhi - IMD",14-02-2025 17:00:00,23.0,6.178841309823677,23.0,45.0,124.0,70.0,17.03181818181818
+Delhi,"CRRI Mathura Road, Delhi - IMD",14-02-2025 17:00:00,102.0,6.178841309823677,66.0,58.0,134.0,77.0,17.03181818181818
+Delhi,"Chandni Chowk, Delhi - IITM",14-02-2025 17:00:00,108.0,5.0,87.0,28.0,127.0,80.0,23.0
+Delhi,"DTU, Delhi - CPCB",14-02-2025 17:00:00,22.0,15.0,40.0,34.0,131.0,65.0,56.0
+Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",14-02-2025 17:00:00,42.0,6.0,69.0,91.0,122.0,77.0,27.0
+Delhi,"Dwarka-Sector 8, Delhi - DPCC ",14-02-2025 17:00:00,59.0,11.0,72.0,66.0,126.0,91.0,15.0
+Delhi,"IGI Airport (T3), Delhi - IMD",14-02-2025 17:00:00,29.0,6.178841309823677,44.0,68.0,100.0,71.0,17.03181818181818
+Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",14-02-2025 17:00:00,61.0,10.0,49.0,41.0,108.0,83.0,13.0
+Delhi,"ITO, Delhi - CPCB",14-02-2025 17:00:00,32.0,6.0,45.0,58.0,104.0,97.0,16.0
+Delhi,"Jahangirpuri, Delhi - DPCC",14-02-2025 17:00:00,90.0,10.0,48.0,93.0,144.0,108.0,17.0
+Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",14-02-2025 17:00:00,27.0,7.0,71.0,69.0,113.0,64.0,15.0
+Delhi,"Lodhi Road, Delhi - IMD",14-02-2025 17:00:00,11.0,6.178841309823677,17.0,48.0,120.0,71.0,17.03181818181818
+Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",14-02-2025 17:00:00,33.0,7.0,67.0,69.0,116.0,88.0,15.0
+Delhi,"Mandir Marg, Delhi - DPCC",14-02-2025 17:00:00,59.0,9.0,145.0,4.0,119.0,95.0,6.0
+Delhi,"Mundka, Delhi - DPCC",14-02-2025 17:00:00,21.0,7.0,64.0,69.0,191.0,149.0,10.0
+Delhi,"NSIT Dwarka, Delhi - CPCB",14-02-2025 17:00:00,102.0,13.0,59.0,36.0,126.0,136.0,10.0
+Delhi,"Najafgarh, Delhi - DPCC",14-02-2025 17:00:00,33.0,6.0,60.0,179.0,93.0,73.0,17.0
+Delhi,"Narela, Delhi - DPCC",14-02-2025 17:00:00,56.0,9.0,9.0,4.0,105.0,80.0,4.0
+Delhi,"Nehru Nagar, Delhi - DPCC",14-02-2025 17:00:00,55.0,5.0,43.0,176.0,126.0,103.0,20.0
+Delhi,"North Campus, DU, Delhi - IMD",14-02-2025 17:00:00,22.0,6.178841309823677,29.0,50.0,101.23632385120351,80.5592105263158,17.03181818181818
+Delhi,"Okhla Phase-2, Delhi - DPCC",14-02-2025 17:00:00,81.0,10.0,72.0,162.0,127.0,78.0,16.0
+Delhi,"Patparganj, Delhi - DPCC",14-02-2025 17:00:00,40.0,6.0,53.0,97.0,134.0,76.0,4.0
+Delhi,"Punjabi Bagh, Delhi - DPCC",14-02-2025 17:00:00,56.0,7.0,26.0,46.0,129.0,121.0,28.0
+Delhi,"Pusa, Delhi - DPCC",14-02-2025 17:00:00,29.0,12.0,80.0,26.0,136.0,97.0,16.0
+Delhi,"Pusa, Delhi - IMD",14-02-2025 17:00:00,65.0,6.178841309823677,26.0,42.0,110.0,76.0,17.03181818181818
+Delhi,"R K Puram, Delhi - DPCC",14-02-2025 17:00:00,29.0,6.0,52.0,28.0,147.0,98.0,37.0
+Delhi,"Rohini, Delhi - DPCC",14-02-2025 17:00:00,22.0,9.0,40.0,78.0,125.0,115.0,15.0
+Delhi,"Shadipur, Delhi - CPCB",14-02-2025 17:00:00,57.0,9.0,79.0,30.0,96.0,72.0,12.0
+Delhi,"Sirifort, Delhi - CPCB",14-02-2025 17:00:00,16.0,14.0,46.0,30.0,116.0,95.0,70.0
+Delhi,"Sonia Vihar, Delhi - DPCC",14-02-2025 17:00:00,137.0,5.0,54.0,78.0,109.0,65.0,14.0
+Delhi,"Sri Aurobindo Marg, Delhi - DPCC",14-02-2025 17:00:00,48.0,7.0,92.0,92.0,112.0,74.0,14.0
+Delhi,"Vivek Vihar, Delhi - DPCC",14-02-2025 17:00:00,42.0,10.0,26.0,70.0,128.0,101.0,16.0
+Delhi,"Wazirpur, Delhi - DPCC",14-02-2025 17:00:00,49.0,7.0,95.0,96.0,152.0,106.0,19.0
+Dewas,"Bhopal Chauraha, Dewas - MPPCB",14-02-2025 17:00:00,19.0,5.0,85.0,48.0,82.0,43.0,34.0
+Dhanbad,"Sardar Patel Nagar, Dhanbad - JSPCB",14-02-2025 17:00:00,2.0,6.178841309823677,120.0,27.0,118.0,42.0,27.0
+Dharwad,"Kalabhavan, Dharwad - KSPCB",14-02-2025 17:00:00,40.0,6.0,25.0,48.0,71.0,49.0,7.0
+Dholpur,"Raja Ganj, Dholpur - RSPCB",14-02-2025 17:00:00,27.0,7.0,21.0,69.0,53.0,35.0,4.0
+Dhule,"Deopur, Dhule - MPCB",14-02-2025 17:00:00,15.0,6.178841309823677,35.87305122494432,64.0,101.23632385120351,80.5592105263158,17.03181818181818
+Dindigul,"Mendonsa Colony, Dindigul - TNPCB",14-02-2025 17:00:00,10.0,1.0,35.87305122494432,4.0,120.0,104.0,21.0
+Dungarpur,"Bhoiwada, Dungarpur - RSPCB",14-02-2025 17:00:00,27.0,5.0,30.0,81.0,116.0,159.0,4.0
+Durgapur,"Mahishkapur Road_B-Zone, Durgapur - WBPCB",14-02-2025 17:00:00,100.0,1.0,18.0,97.0,174.0,75.0,23.0
+Durgapur,"PCBL Residential Complex, Durgapur - WBPCB",14-02-2025 17:00:00,72.0,7.0,48.0,54.0,170.0,82.0,17.0
+Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",14-02-2025 17:00:00,38.0,6.0,44.0,35.0,169.0,211.0,27.0
+Faridabad,"New Industrial Town, Faridabad - HSPCB",14-02-2025 17:00:00,21.0,10.0,11.0,19.0,96.0,55.0,12.0
+Faridabad,"Sector 11, Faridabad - HSPCB",14-02-2025 17:00:00,48.0,6.0,31.0,20.0,101.0,104.0,8.0
+Faridabad,"Sector 30, Faridabad - HSPCB",14-02-2025 17:00:00,62.0,11.0,38.0,18.0,119.0,108.0,6.0
+Firozabad,"Nagla Bhau, Firozabad - UPPCB",14-02-2025 17:00:00,19.0,2.0,17.0,8.0,59.0,43.0,22.0
+Firozabad,"Vibhab Nagar, Firozabad - UPPCB",14-02-2025 17:00:00,2.0,2.0,15.0,23.0,44.0,43.0,36.0
+Gadag,"Panchal Nagar, Gadag - KSPCB",14-02-2025 17:00:00,42.0,2.0,14.0,51.0,59.0,18.0,18.0
+Gandhinagar,"GIFT City, Gandhinagar - IITM",14-02-2025 17:00:00,33.0,30.0,53.0,19.0,112.0,181.0,5.0
+Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",14-02-2025 17:00:00,57.0,14.0,70.0,43.0,111.0,107.0,6.0
+Gandhinagar,"Sector-10, Gandhinagar - GPCB",14-02-2025 17:00:00,29.0,5.0,24.0,22.0,101.0,71.0,3.0
+Gangtok,"Zero Point GICI, Gangtok - SSPCB",14-02-2025 17:00:00,23.0,1.0,2.0,35.0,88.0,148.0,17.03181818181818
+Gaya,"Collectorate, Gaya - BSPCB",14-02-2025 17:00:00,47.0,6.178841309823677,5.0,20.0,101.23632385120351,75.0,18.0
+Gaya,"Kareemganj, Gaya - BSPCB",14-02-2025 17:00:00,17.0,5.0,2.0,49.0,69.0,80.5592105263158,10.0
+Gaya,"SFTI Kusdihra, Gaya - BSPCB",14-02-2025 17:00:00,64.0,3.0,20.0,30.0,62.0,37.0,7.0
+Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",14-02-2025 17:00:00,61.0,8.0,88.0,12.0,85.0,73.0,9.0
+Ghaziabad,"Loni, Ghaziabad - UPPCB",14-02-2025 17:00:00,44.0,6.0,72.0,55.0,84.0,70.0,14.0
+Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",14-02-2025 17:00:00,29.0,5.0,34.0,70.0,71.0,34.0,10.0
+Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",14-02-2025 17:00:00,13.0,9.0,63.0,22.0,80.0,66.0,17.03181818181818
+Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",14-02-2025 17:00:00,8.0,1.0,11.0,18.0,120.0,45.0,34.0
+Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",14-02-2025 17:00:00,17.0,10.0,67.0,40.0,79.0,29.0,11.0
+Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",14-02-2025 17:00:00,42.0,7.0,56.0,67.0,98.0,51.0,6.0
+Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",14-02-2025 17:00:00,34.37341772151899,4.0,39.0,46.304255319148936,100.0,93.0,33.0
+Gurugram,"NISE Gwal Pahari, Gurugram - IMD",14-02-2025 17:00:00,20.0,6.178841309823677,9.0,88.0,111.0,73.0,17.03181818181818
+Gurugram,"Sector-51, Gurugram - HSPCB",14-02-2025 17:00:00,28.0,90.0,10.0,38.0,124.0,89.0,2.0
+Gurugram,"Teri Gram, Gurugram - HSPCB",14-02-2025 17:00:00,34.37341772151899,14.0,35.87305122494432,20.0,202.0,333.0,17.03181818181818
+Guwahati,"IITG, Guwahati - PCBA",14-02-2025 17:00:00,10.0,6.178841309823677,35.87305122494432,33.0,101.23632385120351,80.5592105263158,17.03181818181818
+Guwahati,"LGBI Airport, Guwahati - PCBA",14-02-2025 17:00:00,34.0,6.178841309823677,2.0,20.0,90.0,115.0,10.0
+Guwahati,"Pan Bazaar, Guwahati - PCBA",14-02-2025 17:00:00,28.0,6.178841309823677,3.0,16.0,66.0,99.0,18.0
+Guwahati,"Railway Colony, Guwahati - PCBA",14-02-2025 17:00:00,30.0,6.178841309823677,3.0,2.0,158.0,153.0,16.0
+Gwalior,"City Center, Gwalior - MPPCB",14-02-2025 17:00:00,46.0,2.0,22.0,72.0,82.0,80.5592105263158,28.0
+Gwalior,"Deen Dayal Nagar, Gwalior - MPPCB",14-02-2025 17:00:00,37.0,1.0,23.0,27.0,105.0,138.0,19.0
+Gwalior,"Maharaj Bada, Gwalior - MPPCB",14-02-2025 17:00:00,12.0,2.0,5.0,88.0,85.0,84.0,16.0
+Hajipur,"Industrial Area, Hajipur - BSPCB",14-02-2025 17:00:00,39.0,4.0,44.0,76.0,157.0,176.0,7.0
+Haldia,"Priyambada Housing Estate, Haldia - WBPCB",14-02-2025 17:00:00,28.0,10.0,32.0,42.0,157.0,121.0,16.0
+Hanumangarh,"Housing Board, Hanumangarh - RSPCB",14-02-2025 17:00:00,42.0,13.0,37.0,71.0,135.0,101.0,14.0
+Hapur,"Anand Vihar, Hapur - UPPCB",14-02-2025 17:00:00,28.0,6.0,36.0,12.0,63.0,40.0,13.0
+Hassan,"B.Katihalli, Hassan - KSPCB",14-02-2025 17:00:00,6.0,2.0,13.0,3.0,108.0,106.0,2.0
+Haveri,"Ashwini Nagar, Haveri - KSPCB",14-02-2025 17:00:00,23.0,6.178841309823677,35.87305122494432,16.0,101.23632385120351,80.5592105263158,17.03181818181818
+Howrah,"Belur Math, Howrah - WBPCB",14-02-2025 17:00:00,3.0,5.0,57.0,45.0,149.0,101.0,9.0
+Howrah,"Botanical Garden, Howrah - WBPCB",14-02-2025 17:00:00,63.0,2.0,14.0,54.0,141.0,152.0,4.0
+Howrah,"Dasnagar, Howrah - WBPCB",14-02-2025 17:00:00,44.0,5.0,59.0,154.0,204.0,171.0,32.0
+Howrah,"Ghusuri, Howrah - WBPCB",14-02-2025 17:00:00,13.0,4.0,35.87305122494432,9.0,167.0,203.0,10.0
+Howrah,"Padmapukur, Howrah - WBPCB",14-02-2025 17:00:00,49.0,14.0,56.0,65.0,176.0,207.0,17.0
+Hubballi,"Deshpande Nagar, Hubballi - KSPCB",14-02-2025 17:00:00,20.0,6.178841309823677,35.87305122494432,8.0,101.23632385120351,80.5592105263158,17.03181818181818
+Hubballi,"Lingaraj Nagar, Hubballi - KSPCB",14-02-2025 17:00:00,38.0,2.0,12.0,40.0,54.0,42.0,2.0
+Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",14-02-2025 17:00:00,50.0,1.0,4.0,51.0,119.0,65.0,3.0
+Hyderabad,"Central University, Hyderabad - TSPCB",14-02-2025 17:00:00,23.0,11.0,64.0,14.0,123.0,69.0,19.0
+Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",14-02-2025 17:00:00,28.0,3.0,31.0,22.0,86.0,60.0,17.03181818181818
+Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",14-02-2025 17:00:00,52.0,4.0,21.0,34.0,135.0,134.0,20.0
+Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",14-02-2025 17:00:00,52.0,1.0,65.0,21.0,145.0,138.0,11.0
+Hyderabad,"IITH Kandi, Hyderabad - TSPCB",14-02-2025 17:00:00,31.0,3.0,15.0,26.0,101.23632385120351,80.5592105263158,7.0
+Hyderabad,"Kokapet, Hyderabad - TSPCB",14-02-2025 17:00:00,37.0,4.0,15.0,49.0,130.0,74.0,13.0
+Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",14-02-2025 17:00:00,13.0,4.0,17.0,29.0,98.0,45.0,6.0
+Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",14-02-2025 17:00:00,29.0,6.178841309823677,19.0,24.0,87.0,45.0,10.0
+Hyderabad,"New Malakpet, Hyderabad - TSPCB",14-02-2025 17:00:00,28.0,2.0,13.0,26.0,68.0,58.0,18.0
+Hyderabad,"Ramachandrapuram, Hyderabad - TSPCB",14-02-2025 17:00:00,50.0,4.0,16.0,39.0,80.0,41.0,15.0
+Hyderabad,"Sanathnagar, Hyderabad - TSPCB",14-02-2025 17:00:00,34.0,6.178841309823677,26.0,13.0,101.23632385120351,93.0,9.0
+Hyderabad,"Somajiguda, Hyderabad - TSPCB",14-02-2025 17:00:00,44.0,4.0,39.0,35.0,78.0,74.0,30.0
+Hyderabad,"Zoo Park, Hyderabad - TSPCB",14-02-2025 17:00:00,9.0,6.0,103.0,6.0,138.0,137.0,6.0
+Imphal,"DM College of Science, Imphal - Manipur PCB",14-02-2025 17:00:00,6.0,2.0,8.0,12.0,52.0,45.0,104.0
+Indore,"Airport Area, Indore - IMC",14-02-2025 17:00:00,11.0,6.178841309823677,2.0,11.0,62.0,7.0,14.0
+Indore,"Chhoti Gwaltoli, Indore - MPPCB",14-02-2025 17:00:00,56.0,3.0,122.0,63.0,146.0,131.0,17.0
+Indore,"Regional Park, Indore - IMC",14-02-2025 17:00:00,32.0,6.178841309823677,7.0,17.0,101.23632385120351,78.0,51.0
+Indore,"Residency Area, Indore - IMC",14-02-2025 17:00:00,17.0,6.178841309823677,14.0,13.0,99.0,85.0,29.0
+Indore,"Vijay Nagar Scheme-78, Indore - Glenmark",14-02-2025 17:00:00,34.37341772151899,6.178841309823677,27.0,46.304255319148936,40.0,52.0,28.0
+Jabalpur,"Govindh Bhavan Colony, Jabalpur - JMC",14-02-2025 17:00:00,32.0,3.0,23.0,25.0,52.0,34.0,7.0
+Jabalpur,"Gupteshwar, Jabalpur - JMC",14-02-2025 17:00:00,33.0,3.0,47.0,60.0,51.0,30.0,17.0
+Jabalpur,"Marhatal, Jabalpur - MPPCB",14-02-2025 17:00:00,28.0,3.0,45.0,66.0,75.0,35.0,9.0
+Jabalpur,"Suhagi, Jabalpur - JMC",14-02-2025 17:00:00,41.0,2.0,53.0,39.0,89.0,41.0,12.0
+Jaipur,"Adarsh Nagar, Jaipur - RSPCB",14-02-2025 17:00:00,48.0,11.0,87.0,36.0,103.0,94.0,36.0
+Jaipur,"Mansarovar Sector-12, Jaipur - RSPCB",14-02-2025 17:00:00,32.0,3.0,70.0,86.0,132.0,82.0,14.0
+Jaipur,"Police Commissionerate, Jaipur - RSPCB",14-02-2025 17:00:00,44.0,44.0,152.0,34.0,137.0,130.0,18.0
+Jaipur,"RIICO Sitapura, Jaipur - RSPCB",14-02-2025 17:00:00,24.0,2.0,100.0,94.0,141.0,120.0,13.0
+Jaipur,"Sector-2 Murlipura, Jaipur - RSPCB",14-02-2025 17:00:00,62.0,7.0,80.0,57.0,157.0,103.0,23.0
+Jaipur,"Shastri Nagar, Jaipur - RSPCB",14-02-2025 17:00:00,54.0,12.0,50.0,55.0,117.0,115.0,27.0
+Jaisalmer,"Sadar Bazar, Jaisalmer - RSPCB",14-02-2025 17:00:00,26.0,12.0,49.0,74.0,115.0,58.0,4.0
+Jalandhar,"Civil Line, Jalandhar - PPCB",14-02-2025 17:00:00,36.0,2.0,39.0,33.0,98.0,57.0,16.0
+Jalgaon,"Prabhat Colony, Jalgaon - MPCB",14-02-2025 17:00:00,23.0,1.0,10.0,68.0,123.0,66.0,15.0
+Jalna,"Old MIDC, Jalna - MPCB",14-02-2025 17:00:00,14.0,3.0,20.0,24.0,78.0,51.0,2.0
+Jalore,"Mudtra Sili, Jalore - RSPCB",14-02-2025 17:00:00,33.0,9.0,63.0,65.0,182.0,127.0,6.0
+Jhalawar,"Rajlaxmi Nagar, Jhalawar - RSPCB",14-02-2025 17:00:00,42.0,6.0,37.0,64.0,96.0,86.0,8.0
+Jhansi,"Shivaji Nagar, Jhansi - UPPCB",14-02-2025 17:00:00,13.0,4.0,6.0,6.0,26.0,27.0,30.0
+Jhunjhunu,"Indra Nagar, Jhunjhunu - RSPCB",14-02-2025 17:00:00,64.0,9.0,55.0,91.0,115.0,79.0,6.0
+Jodhpur,"Collectorate, Jodhpur - RSPCB",14-02-2025 17:00:00,42.0,6.178841309823677,26.0,48.0,227.0,143.0,6.0
+Jodhpur,"Digari Kalan, Jodhpur - RSPCB",14-02-2025 17:00:00,33.0,3.0,53.0,38.0,162.0,118.0,9.0
+Jodhpur,"Jhalamand, Jodhpur - RSPCB",14-02-2025 17:00:00,24.0,12.0,37.0,78.0,141.0,106.0,5.0
+Jodhpur,"Mandor, Jodhpur - RSPCB",14-02-2025 17:00:00,34.0,6.0,51.0,73.0,133.0,77.0,5.0
+Jodhpur,"Samrat Ashok Udhyan, Jodhpur - RSPCB",14-02-2025 17:00:00,37.0,15.0,64.0,88.0,170.0,163.0,13.0
+Kadapa,"Yerramukkapalli, Kadapa - APPCB",14-02-2025 17:00:00,12.0,5.0,15.0,105.0,84.0,81.0,15.0
+Kalaburagi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",14-02-2025 17:00:00,29.0,1.0,12.0,64.0,81.0,80.5592105263158,34.0
+Kalaburagi,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",14-02-2025 17:00:00,46.0,3.0,14.0,21.0,101.23632385120351,36.0,2.0
+Kalyan,"Khadakpada, Kalyan - MPCB",14-02-2025 17:00:00,7.0,1.0,6.0,16.0,84.0,68.0,5.0
+Kalyan,"Pimpleshwar Mandir, Kalyan - MPCB",14-02-2025 17:00:00,23.0,6.178841309823677,35.87305122494432,36.0,94.0,80.5592105263158,18.0
+Kanchipuram,"Kilambi, Kanchipuram - TNPCB",14-02-2025 17:00:00,13.0,2.0,8.0,8.0,45.0,36.0,15.0
+Kannur,"Thavakkara, Kannur - Kerala PCB",14-02-2025 17:00:00,49.0,1.0,16.0,29.0,53.0,53.0,3.0
+Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",14-02-2025 17:00:00,27.0,2.0,22.0,15.0,109.0,58.0,30.0
+Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",14-02-2025 17:00:00,16.0,2.0,24.0,13.0,89.0,40.0,43.0
+Kanpur,"Nehru Nagar, Kanpur - UPPCB",14-02-2025 17:00:00,34.0,6.178841309823677,28.0,63.0,23.0,26.0,19.0
+Karauli,"Satyawati Vihar, Karauli - RSPCB",14-02-2025 17:00:00,17.0,6.178841309823677,22.0,95.0,98.0,71.0,7.0
+Karur,"Kamadenu Nagar, Karur - TNPCB",14-02-2025 17:00:00,16.0,6.178841309823677,11.0,30.0,69.0,69.0,15.0
+Karwar,"KHB Colony, Karwar - KSPCB",14-02-2025 17:00:00,9.0,6.178841309823677,35.87305122494432,46.304255319148936,101.23632385120351,80.5592105263158,17.03181818181818
+Kashipur,"Govt. Girls Inter College, Kashipur - UKPCB",14-02-2025 17:00:00,28.0,8.0,36.0,30.0,87.0,81.0,7.0
+Katihar,"Mirchaibari, Katihar - BSPCB",14-02-2025 17:00:00,22.0,1.0,17.0,54.0,28.0,35.0,10.0
+Katni,"Gole Bazar, Katni - MPPCB",14-02-2025 17:00:00,44.0,4.0,62.0,71.0,128.0,53.0,60.0
+Keonjhar,"Jagamohanpur, Keonjhar - OSPCB",14-02-2025 17:00:00,23.0,12.0,5.0,11.0,110.0,59.0,30.0
+Khanna,"Kalal Majra, Khanna - PPCB",14-02-2025 17:00:00,21.0,6.0,28.0,12.0,72.0,61.0,15.0
+Khurja,"Kalindi Kunj, Khurja - UPPCB",14-02-2025 17:00:00,34.0,1.0,3.0,6.0,113.0,49.0,46.0
+Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",14-02-2025 17:00:00,80.0,11.0,26.0,20.0,113.0,54.0,29.0
+Kohima,"PWD Juction, Kohima - NPCB",14-02-2025 17:00:00,12.0,1.0,4.0,15.0,73.0,68.0,56.0
+Kolar,"Tamaka Ind. Area, Kolar - KSPCB",14-02-2025 17:00:00,49.0,2.0,7.0,19.0,24.0,23.0,7.0
+Kolhapur,"Shivaji University, Kolhapur - MPCB",14-02-2025 17:00:00,23.0,12.0,14.0,43.0,78.0,74.0,5.0
+Kolhapur,"Sinchan Bhavan, Kolhapur - MPCB",14-02-2025 17:00:00,27.0,6.178841309823677,35.0,161.0,114.0,135.0,5.0
+Kolkata,"Ballygunge, Kolkata - WBPCB",14-02-2025 17:00:00,23.0,17.0,66.0,55.0,149.0,165.0,11.0
+Kolkata,"Bidhannagar, Kolkata - WBPCB",14-02-2025 17:00:00,16.0,6.0,63.0,30.0,92.0,117.0,10.0
+Kolkata,"Fort William, Kolkata - WBPCB",14-02-2025 17:00:00,24.0,7.0,93.0,67.0,137.0,150.0,17.0
+Kolkata,"Jadavpur, Kolkata - WBPCB",14-02-2025 17:00:00,39.0,6.178841309823677,35.87305122494432,20.0,164.0,190.0,6.0
+Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",14-02-2025 17:00:00,26.0,11.0,37.0,82.0,127.0,103.0,12.0
+Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",14-02-2025 17:00:00,24.0,11.0,79.0,101.0,109.0,107.0,19.0
+Kolkata,"Victoria, Kolkata - WBPCB",14-02-2025 17:00:00,62.0,4.0,38.0,55.0,147.0,110.0,7.0
+Kollam,"Polayathode, Kollam - Kerala PCB",14-02-2025 17:00:00,15.0,6.178841309823677,35.87305122494432,34.0,101.23632385120351,80.5592105263158,17.03181818181818
+Korba,"Rampur, Korba - CECB",14-02-2025 17:00:00,41.0,1.0,27.0,7.0,68.0,42.0,22.0
+Korba,"Urja Nagar, Korba - CECB",14-02-2025 17:00:00,13.0,2.0,56.0,35.0,46.0,54.0,8.0
+Kota,"Dhanmandi, Kota - RSPCB",14-02-2025 17:00:00,56.0,6.0,83.0,71.0,146.0,137.0,15.0
+Kota,"Nayapura, Kota - RSPCB",14-02-2025 17:00:00,37.0,14.0,76.0,67.0,109.0,78.0,7.0
+Kota,"Shrinath Puram, Kota - RSPCB",14-02-2025 17:00:00,55.0,8.0,46.0,18.0,94.0,102.0,17.0
+Kunjemura,"OP Jindal School, Kunjemura - CECB",14-02-2025 17:00:00,33.0,2.0,33.0,8.0,130.0,77.0,5.0
+Latur,"Sawe Wadi, Latur - MPCB",14-02-2025 17:00:00,21.0,6.0,20.0,76.0,66.0,67.0,11.0
+Lucknow,"B R Ambedkar University, Lucknow - UPPCB",14-02-2025 17:00:00,13.0,2.0,7.0,65.0,97.0,14.0,38.0
+Lucknow,"Gomti Nagar, Lucknow - UPPCB",14-02-2025 17:00:00,34.0,6.178841309823677,7.0,34.0,60.0,89.0,10.0
+Lucknow,"Kendriya Vidyalaya, Lucknow - CPCB",14-02-2025 17:00:00,62.0,14.0,58.0,29.0,139.0,81.0,12.0
+Lucknow,"Lalbagh, Lucknow - CPCB",14-02-2025 17:00:00,84.0,17.0,83.0,30.0,137.0,112.0,12.0
+Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",14-02-2025 17:00:00,23.0,12.0,54.0,43.0,111.0,114.0,6.0
+Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",14-02-2025 17:00:00,49.0,3.0,17.0,14.0,91.0,77.0,15.0
+Madikeri,"Stuart Hill, Madikeri - KSPCB",14-02-2025 17:00:00,11.0,1.0,8.0,6.0,51.0,50.0,4.0
+Madurai,"Uchapatti, Madurai - TNPCB",14-02-2025 17:00:00,12.0,2.0,16.0,6.0,72.0,64.0,13.0
+Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",14-02-2025 17:00:00,34.0,8.0,26.0,61.0,108.0,85.0,19.0
+Maihar,"Sahilara, Maihar - KJS Cements",14-02-2025 17:00:00,40.0,6.178841309823677,25.0,46.304255319148936,24.0,11.0,8.0
+Malegaon,"Mahesh Nagar, Malegaon - MPCB",14-02-2025 17:00:00,54.0,10.0,35.87305122494432,51.0,85.0,80.5592105263158,25.0
+Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",14-02-2025 17:00:00,68.0,6.178841309823677,35.87305122494432,48.0,169.0,114.0,17.03181818181818
+Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",14-02-2025 17:00:00,41.0,7.0,76.0,37.0,204.0,172.0,52.0
+Mangalore,"Kadri, Mangalore - KSPCB",14-02-2025 17:00:00,38.0,3.0,16.0,20.0,70.0,59.0,10.0
+Manguraha,"Forest Rest House, Manguraha - BSPCB",14-02-2025 17:00:00,45.0,6.178841309823677,4.0,10.0,100.0,124.0,7.0
+Meerut,"Ganga Nagar, Meerut - UPPCB",14-02-2025 17:00:00,28.0,7.0,36.0,69.0,121.0,65.0,18.0
+Meerut,"Jai Bhim Nagar, Meerut - UPPCB",14-02-2025 17:00:00,28.0,6.0,33.0,12.0,88.0,29.0,12.0
+Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",14-02-2025 17:00:00,22.0,14.0,12.0,26.0,85.0,40.0,22.0
+Milupara,"Govt. Higher Secondary School, Milupara - CECB",14-02-2025 17:00:00,12.0,6.178841309823677,35.87305122494432,14.0,101.23632385120351,80.5592105263158,17.03181818181818
+Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",14-02-2025 17:00:00,27.0,2.0,41.0,40.0,120.0,73.0,4.0
+Moradabad,"Buddhi Vihar, Moradabad - UPPCB",14-02-2025 17:00:00,24.0,4.0,23.0,20.0,52.0,20.0,26.0
+Moradabad,"Eco Herbal Park, Moradabad - UPPCB",14-02-2025 17:00:00,17.0,8.0,43.0,87.0,27.0,16.0,10.0
+Moradabad,"Employment Office, Moradabad - UPPCB",14-02-2025 17:00:00,5.0,4.0,16.0,44.0,73.0,59.0,26.0
+Moradabad,"Jigar Colony, Moradabad - UPPCB",14-02-2025 17:00:00,34.0,6.0,25.0,21.0,67.0,38.0,32.0
+Moradabad,"Kashiram Nagar, Moradabad - UPPCB",14-02-2025 17:00:00,19.0,4.0,25.0,19.0,51.0,24.0,41.0
+Moradabad,"Transport Nagar, Moradabad - UPPCB",14-02-2025 17:00:00,35.0,5.0,27.0,45.0,57.0,35.0,24.0
+Motihari,"Gandak Colony, Motihari - BSPCB",14-02-2025 17:00:00,39.0,3.0,7.0,14.0,85.0,60.0,17.03181818181818
+Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",14-02-2025 17:00:00,36.0,36.0,79.0,50.0,165.0,184.0,8.0
+Mumbai,"Borivali East, Mumbai - IITM",14-02-2025 17:00:00,29.0,5.0,83.0,51.0,131.0,128.0,17.03181818181818
+Mumbai,"Borivali East, Mumbai - MPCB",14-02-2025 17:00:00,9.0,2.0,17.0,46.304255319148936,77.0,45.0,15.0
+Mumbai,"Byculla, Mumbai - BMC",14-02-2025 17:00:00,18.0,19.0,78.0,55.0,107.0,88.0,20.0
+Mumbai,"Chembur, Mumbai - MPCB",14-02-2025 17:00:00,41.0,11.0,78.0,70.0,112.0,68.0,13.0
+Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",14-02-2025 17:00:00,22.0,2.0,35.0,7.0,97.0,59.0,21.0
+Mumbai,"Colaba, Mumbai - MPCB",14-02-2025 17:00:00,26.0,3.0,27.0,11.0,94.0,33.0,10.0
+Mumbai,"Deonar, Mumbai - IITM",14-02-2025 17:00:00,34.37341772151899,13.0,61.0,54.0,191.0,178.0,37.0
+Mumbai,"Ghatkopar, Mumbai - BMC",14-02-2025 17:00:00,10.0,12.0,54.0,37.0,117.0,49.0,9.0
+Mumbai,"Kandivali East, Mumbai - MPCB",14-02-2025 17:00:00,12.0,9.0,1.0,15.0,112.0,88.0,44.0
+Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",14-02-2025 17:00:00,61.0,30.0,70.0,45.0,144.0,118.0,3.0
+Mumbai,"Kurla, Mumbai - MPCB",14-02-2025 17:00:00,9.0,2.0,6.0,28.0,102.0,80.0,17.03181818181818
+Mumbai,"Malad West, Mumbai - IITM",14-02-2025 17:00:00,28.0,2.0,34.0,41.0,166.0,176.0,9.0
+Mumbai,"Mazgaon, Mumbai - IITM",14-02-2025 17:00:00,22.0,11.0,76.0,56.0,132.0,130.0,31.0
+Mumbai,"Mindspace-Malad West, Mumbai - MPCB",14-02-2025 17:00:00,35.0,5.0,34.0,42.0,111.0,72.0,34.0
+Mumbai,"Mulund West, Mumbai - MPCB",14-02-2025 17:00:00,9.0,3.0,19.0,18.0,104.0,55.0,68.0
+Mumbai,"Navy Nagar-Colaba, Mumbai - IITM",14-02-2025 17:00:00,44.0,10.0,35.87305122494432,10.0,133.0,83.0,16.0
+Mumbai,"Powai, Mumbai - MPCB",14-02-2025 17:00:00,16.0,2.0,7.0,9.0,128.0,61.0,25.0
+Mumbai,"Sewri, Mumbai - BMC",14-02-2025 17:00:00,33.0,6.178841309823677,35.87305122494432,35.0,85.0,58.0,17.03181818181818
+Mumbai,"Shivaji Nagar, Mumbai - BMC",14-02-2025 17:00:00,3.0,4.0,24.0,76.0,106.0,81.0,5.0
+Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",14-02-2025 17:00:00,57.0,4.0,54.0,59.0,127.0,117.0,17.03181818181818
+Mumbai,"Sion, Mumbai - MPCB",14-02-2025 17:00:00,5.0,6.178841309823677,118.0,3.0,119.0,106.0,25.0
+Mumbai,"Vasai West, Mumbai - MPCB",14-02-2025 17:00:00,41.0,10.0,78.0,8.0,100.0,47.0,29.0
+Mumbai,"Vile Parle West, Mumbai - MPCB",14-02-2025 17:00:00,51.0,4.0,87.0,8.0,123.0,95.0,36.0
+Mumbai,"Worli, Mumbai - MPCB",14-02-2025 17:00:00,10.0,5.0,17.0,25.0,131.0,103.0,7.0
+Munger,"Town Hall, Munger - BSPCB",14-02-2025 17:00:00,37.0,6.0,18.0,15.0,92.0,68.0,12.0
+Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",14-02-2025 17:00:00,38.0,6.0,21.0,78.0,116.0,94.0,22.0
+Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",14-02-2025 17:00:00,26.0,4.0,18.0,34.0,135.0,105.0,5.0
+Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",14-02-2025 17:00:00,22.0,3.0,11.0,11.0,101.23632385120351,80.5592105263158,29.0
+Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",14-02-2025 17:00:00,17.0,6.178841309823677,9.0,301.0,101.23632385120351,88.0,4.0
+Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",14-02-2025 17:00:00,28.0,4.0,19.0,58.0,57.0,42.0,10.0
+Nagaon,"Christianpatty, Nagaon - PCBA",14-02-2025 17:00:00,34.0,1.0,7.0,7.0,63.0,65.0,7.0
+Nagapattinam,"Velippalayam, Nagapattinam - TNPCB",14-02-2025 17:00:00,17.0,2.0,5.0,1.0,27.0,27.0,6.0
+Nagaur,"Karni Colony, Nagaur - RSPCB",14-02-2025 17:00:00,32.0,10.0,39.0,86.0,187.0,100.0,6.0
+Nagpur,"Ambazari, Nagpur - MPCB",14-02-2025 17:00:00,16.0,5.0,17.0,63.0,86.0,70.0,28.0
+Nagpur,"Mahal, Nagpur - MPCB",14-02-2025 17:00:00,41.0,5.0,44.0,49.0,115.0,104.0,37.0
+Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",14-02-2025 17:00:00,26.0,5.0,39.0,42.0,96.0,60.0,25.0
+Nagpur,"Ram Nagar, Nagpur - MPCB",14-02-2025 17:00:00,19.0,4.0,29.0,47.0,102.0,66.0,12.0
+Naharlagun,"Naharlagun, Naharlagun - APSPCB",14-02-2025 17:00:00,12.0,6.178841309823677,4.0,3.0,62.0,53.0,5.0
+Nalbari,"Bata Chowk, Nalbari - PCBA",14-02-2025 17:00:00,24.0,2.0,17.0,39.0,105.0,90.0,5.0
+Nanded,"Sneh Nagar, Nanded - MPCB",14-02-2025 17:00:00,23.0,4.0,21.0,48.0,93.0,56.0,15.0
+Nashik,"Gangapur Road, Nashik - MPCB",14-02-2025 17:00:00,42.0,4.0,29.0,33.0,103.0,81.0,16.0
+Nashik,"Hirawadi, Nashik - MPCB",14-02-2025 17:00:00,24.0,5.0,17.0,61.0,120.0,81.0,14.0
+Nashik,"MIDC Ambad, Nashik - MPCB",14-02-2025 17:00:00,25.0,2.0,22.0,69.0,127.0,99.0,36.0
+Nashik,"Pandav Nagari, Nashik - MPCB",14-02-2025 17:00:00,18.0,5.0,21.0,59.0,104.0,87.0,29.0
+Navi Mumbai,"Kopripada-Vashi, Navi Mumbai - MPCB",14-02-2025 17:00:00,35.0,12.0,79.0,44.0,118.0,108.0,21.0
+Navi Mumbai,"Mahape, Navi Mumbai - MPCB",14-02-2025 17:00:00,29.0,1.0,85.0,21.0,116.0,92.0,24.0
+Navi Mumbai,"Sanpada, Navi Mumbai - MPCB",14-02-2025 17:00:00,11.0,8.0,59.0,34.0,138.0,69.0,21.0
+Navi Mumbai,"Sector-2E Kalamboli, Navi Mumbai - MPCB",14-02-2025 17:00:00,18.0,8.0,63.0,48.0,127.0,108.0,26.0
+Navi Mumbai,"Tondare-Taloja, Navi Mumbai - MPCB",14-02-2025 17:00:00,34.0,5.0,19.0,54.0,131.0,98.0,5.0
+Nayagarh,"Dabuna, Nayagarh - OSPCB",14-02-2025 17:00:00,35.0,6.178841309823677,35.87305122494432,9.0,121.0,106.0,9.0
+Noida,"Sector - 125, Noida - UPPCB",14-02-2025 17:00:00,62.0,24.0,141.0,74.0,69.0,33.0,14.0
+Noida,"Sector - 62, Noida - IMD",14-02-2025 17:00:00,34.0,6.178841309823677,25.0,43.0,120.0,62.0,17.03181818181818
+Noida,"Sector-1, Noida - UPPCB",14-02-2025 17:00:00,38.0,8.0,92.0,41.0,60.0,39.0,9.0
+Noida,"Sector-116, Noida - UPPCB",14-02-2025 17:00:00,67.0,7.0,68.0,65.0,91.0,52.0,39.0
+Ooty,"Bombay Castel, Ooty - TNPCB",14-02-2025 17:00:00,26.0,14.0,35.87305122494432,5.0,72.0,67.0,23.0
+Pali,"Indira Colony Vistar, Pali - RSPCB",14-02-2025 17:00:00,50.0,8.0,49.0,44.0,173.0,190.0,7.0
+Palkalaiperur,"Bharathidasan University, Palkalaiperur - TNPCB",14-02-2025 17:00:00,10.0,3.0,10.0,46.304255319148936,30.0,25.0,8.0
+Panchgaon,"Amity University, Panchgaon - IITM",14-02-2025 17:00:00,42.0,6.0,54.0,54.0,108.0,105.0,17.0
+Parbhani,"Masoom Colony, Parbhani - MPCB",14-02-2025 17:00:00,27.0,9.0,24.0,25.0,60.0,38.0,18.0
+Patiala,"Model Town, Patiala - PPCB",14-02-2025 17:00:00,44.0,4.0,19.0,39.0,80.0,61.0,14.0
+Patna,"DRM Office Danapur, Patna - BSPCB",14-02-2025 17:00:00,20.0,2.0,32.0,39.0,113.0,80.0,5.0
+Patna,"Govt. High School Shikarpur, Patna - BSPCB",14-02-2025 17:00:00,35.0,3.0,4.0,22.0,228.0,182.0,7.0
+Patna,"IGSC Planetarium Complex, Patna - BSPCB",14-02-2025 17:00:00,28.0,6.178841309823677,13.0,25.0,101.23632385120351,67.0,9.0
+Patna,"Muradpur, Patna - BSPCB",14-02-2025 17:00:00,47.0,4.0,18.0,143.0,170.0,191.0,9.0
+Patna,"Rajbansi Nagar, Patna - BSPCB",14-02-2025 17:00:00,26.0,10.0,24.0,70.0,87.0,67.0,10.0
+Patna,"Samanpura, Patna - BSPCB",14-02-2025 17:00:00,79.0,6.0,44.0,49.0,151.0,94.0,7.0
+Perundurai,"SIPCOT Industrial Park, Perundurai - TNPCB",14-02-2025 17:00:00,39.0,2.0,4.0,11.0,57.0,45.0,18.0
+Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",14-02-2025 17:00:00,46.0,5.0,95.0,45.0,96.0,110.0,14.0
+Pimpri-Chinchwad,"Park Street Wakad, Pimpri Chinchwad - MPCB",14-02-2025 17:00:00,43.0,14.0,73.0,43.0,115.0,109.0,8.0
+Pimpri-Chinchwad,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",14-02-2025 17:00:00,97.0,6.178841309823677,35.87305122494432,34.0,161.0,154.0,17.03181818181818
+Pimpri-Chinchwad,"Thergaon, Pimpri Chinchwad - MPCB",14-02-2025 17:00:00,47.0,14.0,101.0,37.0,122.0,115.0,12.0
+Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",14-02-2025 17:00:00,44.0,3.0,22.0,115.0,121.0,93.0,22.0
+Pratapgarh,"Pragati Nagar, Pratapgarh - RSPCB",14-02-2025 17:00:00,28.0,4.0,28.0,90.0,115.0,61.0,5.0
+Prayagraj,"Jhunsi, Prayagraj - UPPCB",14-02-2025 17:00:00,5.0,5.0,6.0,37.0,54.0,21.0,30.0
+Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",14-02-2025 17:00:00,13.0,6.0,12.0,17.0,35.0,16.0,30.0
+Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",14-02-2025 17:00:00,5.0,12.0,5.0,11.0,33.0,20.0,20.0
+Puducherry,"Jawahar Nagar, Puducherry - PPCC",14-02-2025 17:00:00,24.0,2.0,16.0,44.0,46.0,49.0,8.0
+Pudukottai,"SIPCOT Nathampannai, Pudukottai - TNPCB",14-02-2025 17:00:00,34.37341772151899,3.0,16.0,46.304255319148936,38.0,29.0,13.0
+Pune,"Bhumkar Nagar, Pune - IITM",14-02-2025 17:00:00,77.0,6.178841309823677,186.0,73.0,215.0,225.0,17.03181818181818
+Pune,"Dhankawadi, Pune - IITM",14-02-2025 17:00:00,28.0,6.178841309823677,32.0,78.0,74.0,67.0,17.03181818181818
+Pune,"Hadapsar, Pune - IITM",14-02-2025 17:00:00,32.0,6.178841309823677,118.0,43.0,140.0,163.0,17.03181818181818
+Pune,"Karve Road, Pune - MPCB",14-02-2025 17:00:00,49.0,6.178841309823677,19.0,50.0,126.0,105.0,22.0
+Pune,"Katraj Dairy, Pune - MPCB",14-02-2025 17:00:00,43.0,6.0,49.0,30.0,102.0,73.0,9.0
+Pune,"Mhada Colony, Pune - IITM",14-02-2025 17:00:00,21.0,6.178841309823677,61.0,79.0,158.0,142.0,17.03181818181818
+Pune,"Panchawati_Pashan, Pune - IITM",14-02-2025 17:00:00,153.0,6.178841309823677,4.0,3.0,72.0,67.0,17.03181818181818
+Pune,"Revenue Colony-Shivajinagar, Pune - IITM",14-02-2025 17:00:00,62.0,6.178841309823677,136.0,153.0,158.0,225.0,18.0
+Pune,"Savitribai Phule Pune University, Pune - MPCB",14-02-2025 17:00:00,45.0,5.0,33.0,86.0,78.0,56.0,6.0
+Pune,"Transport Nagar-Nigdi, Pune - IITM",14-02-2025 17:00:00,78.0,6.178841309823677,38.0,65.0,128.0,69.0,17.03181818181818
+Purnia,"Mariam Nagar, Purnia - BSPCB",14-02-2025 17:00:00,61.0,3.0,14.0,32.0,40.0,51.0,16.0
+Raipur,"AIIMS, Raipur - CECB",14-02-2025 17:00:00,27.0,7.0,62.0,2.0,61.0,34.0,4.0
+Raipur,"Bhatagaon New ISBT, Raipur - CECB",14-02-2025 17:00:00,26.0,2.0,70.0,2.0,68.0,32.0,8.0
+Raipur,"Krishak Nagar, Raipur - CECB",14-02-2025 17:00:00,32.0,3.0,28.0,46.304255319148936,62.0,41.0,13.0
+Raipur,"Siltara Phase-II, Raipur - CECB",14-02-2025 17:00:00,18.0,3.0,28.0,3.0,108.0,93.0,14.0
+Rairangpur,"Divisional Forest Office, Rairangpur - OSPCB",14-02-2025 17:00:00,29.0,3.0,13.0,28.0,97.0,80.0,17.0
+Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",14-02-2025 17:00:00,26.0,8.0,29.0,3.0,77.0,59.0,14.0
+Rajgir,"Dangi Tola, Rajgir - BSPCB",14-02-2025 17:00:00,24.0,2.0,9.0,35.0,99.0,42.0,17.03181818181818
+Rajsamand,"Dhoinda, Rajsamand - RSPCB",14-02-2025 17:00:00,19.0,18.0,33.0,95.0,100.0,124.0,10.0
+Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",14-02-2025 17:00:00,29.0,1.0,17.0,51.0,74.0,77.0,25.0
+Ramanathapuram,"Chalai Bazaar, Ramanathapuram - TNPCB",14-02-2025 17:00:00,4.0,1.0,3.0,14.0,23.0,16.0,15.0
+Ranipet,"VOC Nagar_SIPCOT, Ranipet - TNPCB",14-02-2025 17:00:00,34.37341772151899,8.0,3.0,1.0,86.0,85.0,16.0
+Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",14-02-2025 17:00:00,34.37341772151899,6.178841309823677,17.0,46.304255319148936,101.23632385120351,80.5592105263158,16.0
+Rishikesh,"Shivaji Nagar, Rishikesh - UKPCB",14-02-2025 17:00:00,36.0,6.0,14.0,39.0,80.0,58.0,6.0
+Rourkela,"Fertilizer Township, Rourkela - OSPCB",14-02-2025 17:00:00,23.0,6.178841309823677,35.87305122494432,46.304255319148936,272.0,292.0,17.03181818181818
+Rourkela,"Raghunathpali, Rourkela - OSPCB",14-02-2025 17:00:00,70.0,2.0,6.0,58.0,122.0,114.0,5.0
+Rourkela,"Sector-2, Rourkela - OSPCB",14-02-2025 17:00:00,46.0,6.178841309823677,35.87305122494432,46.304255319148936,73.0,109.0,17.03181818181818
+Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",14-02-2025 17:00:00,34.37341772151899,6.178841309823677,35.87305122494432,46.304255319148936,89.0,67.0,7.0
+Sagar,"Civil Lines, Sagar - MPPCB",14-02-2025 17:00:00,19.0,2.0,29.0,52.0,35.0,25.0,5.0
+Sagar,"Deen Dayal Nagar, Sagar - MPPCB",14-02-2025 17:00:00,58.0,6.178841309823677,51.0,46.304255319148936,97.0,71.0,3.0
+Saharsa,"Police Line, Saharsa - BSPCB",14-02-2025 17:00:00,35.0,4.0,1.0,28.0,75.0,49.0,17.0
+Salem,"Sona College of Technology, Salem - TNPCB",14-02-2025 17:00:00,3.0,3.0,12.0,16.0,66.0,70.0,32.0
+Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",14-02-2025 17:00:00,9.0,2.0,2.0,4.0,32.0,21.0,20.0
+Sangli,"Vijay Nagar, Sangli - MPCB",14-02-2025 17:00:00,37.0,2.0,67.0,104.0,136.0,94.0,32.0
+Sasaram,"Dada Peer, Sasaram - BSPCB",14-02-2025 17:00:00,53.0,6.178841309823677,35.87305122494432,8.0,101.23632385120351,80.5592105263158,17.03181818181818
+Satna,"Bandhavgar Colony, Satna - Birla Cement",14-02-2025 17:00:00,19.0,6.178841309823677,35.87305122494432,19.0,62.0,48.0,2.0
+Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",14-02-2025 17:00:00,7.0,6.178841309823677,35.87305122494432,7.0,101.23632385120351,80.5592105263158,7.0
+Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",14-02-2025 17:00:00,19.0,3.0,15.0,52.0,59.0,41.0,8.0
+Sikar,"Radhakishan Pura, Sikar - RSPCB",14-02-2025 17:00:00,37.0,8.0,44.0,61.0,130.0,83.0,6.0
+Silchar,"Tarapur, Silchar - PCBA",14-02-2025 17:00:00,27.0,1.0,2.0,10.0,72.0,53.0,10.0
+Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",14-02-2025 17:00:00,38.0,15.0,34.0,17.0,142.0,157.0,15.0
+Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",14-02-2025 17:00:00,42.0,3.0,66.0,83.0,83.0,43.0,27.0
+Sirohi,"Vedhaynath Colony, Sirohi - RSPCB",14-02-2025 17:00:00,30.0,5.0,51.0,47.0,98.0,62.0,6.0
+Sivasagar,"Girls College, Sivasagar - PCBA",14-02-2025 17:00:00,13.0,3.0,32.0,13.0,40.0,34.0,8.0
+Siwan,"Chitragupta Nagar, Siwan - BSPCB",14-02-2025 17:00:00,64.0,6.178841309823677,35.87305122494432,86.0,101.23632385120351,80.5592105263158,17.03181818181818
+Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",14-02-2025 17:00:00,12.0,6.178841309823677,35.87305122494432,119.0,101.23632385120351,80.5592105263158,17.03181818181818
+Solapur,"Ratandeep Housing Society, Solapur - MPCB",14-02-2025 17:00:00,27.0,9.0,60.0,61.0,111.0,105.0,17.03181818181818
+Solapur,"Solapur, Solapur - MPCB",14-02-2025 17:00:00,34.37341772151899,6.178841309823677,55.0,46.304255319148936,108.0,56.0,51.0
+Sri Ganganagar,"Old City, Sri Ganganagar - RSPCB",14-02-2025 17:00:00,37.0,30.0,74.0,28.0,230.0,144.0,9.0
+Sri Vijaya Puram,"Police Line, Sri Vijaya Puram - ANPCC",14-02-2025 17:00:00,31.0,6.178841309823677,35.87305122494432,75.0,101.23632385120351,80.5592105263158,17.03181818181818
+Srinagar,"Rajbagh, Srinagar - JKSPCB",14-02-2025 17:00:00,15.0,1.0,6.0,2.0,41.0,26.0,17.03181818181818
+Suakati,"OMC Colony, Suakati - OSPCB",14-02-2025 17:00:00,15.0,9.0,12.0,43.0,128.0,102.0,28.0
+Surat,"Science Center, Surat - SMC",14-02-2025 17:00:00,63.0,6.178841309823677,25.0,46.304255319148936,68.0,66.0,46.0
+Talcher,"Talcher Coalfields,Talcher - OSPCB",14-02-2025 17:00:00,73.0,4.0,34.0,33.0,217.0,223.0,42.0
+Tensa,"Barsua Iron Ore Mines, Tensa - OSPCB",14-02-2025 17:00:00,9.0,5.0,50.0,5.0,99.0,63.0,38.0
+Thane,"Kasarvadavali, Thane - MPCB",14-02-2025 17:00:00,29.0,2.0,30.0,49.0,102.0,100.0,16.0
+Thane,"Upvan Fort, Thane - MPCB",14-02-2025 17:00:00,22.0,4.0,34.0,61.0,82.0,69.0,17.0
+Thanjavur,"Parisutham Nagar, Thanjavur - TNPCB",14-02-2025 17:00:00,7.0,2.0,10.0,18.0,41.0,41.0,17.0
+Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",14-02-2025 17:00:00,38.0,6.178841309823677,6.0,37.0,72.0,48.0,5.0
+Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",14-02-2025 17:00:00,25.0,6.178841309823677,35.87305122494432,14.0,101.23632385120351,80.5592105263158,17.03181818181818
+Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",14-02-2025 17:00:00,10.0,6.178841309823677,18.0,20.0,33.0,80.5592105263158,12.0
+Thrissur,"Corporation Ground, Thrissur - Kerala PCB",14-02-2025 17:00:00,15.0,6.178841309823677,8.0,31.0,52.0,55.0,2.0
+Tirumala,"Toll Gate, Tirumala - APPCB (Formerly known as Tirumala, Tirupati - APPCB)",14-02-2025 17:00:00,12.0,2.0,29.0,31.0,70.0,79.0,10.0
+Tirunelveli,"Municipal Corporation Office, Tirunelveli - TNPCB",14-02-2025 17:00:00,41.0,2.0,12.0,6.0,31.0,24.0,21.0
+Tirupur,"Kumaran College, Tirupur - TNPCB",14-02-2025 17:00:00,59.0,6.178841309823677,14.0,46.304255319148936,101.23632385120351,36.0,17.03181818181818
+Tonk,"Shastri Nagar, Tonk - RSPCB",14-02-2025 17:00:00,22.0,6.178841309823677,35.87305122494432,62.0,101.23632385120351,80.5592105263158,17.03181818181818
+Tumakuru,"Thimmalapura, Tumakuru - KSPCB",14-02-2025 17:00:00,57.0,2.0,18.0,7.0,159.0,114.0,7.0
+Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",14-02-2025 17:00:00,15.0,1.0,40.0,34.0,86.0,45.0,6.0
+Udaipur,"Ashok Nagar, Udaipur - RSPCB",14-02-2025 17:00:00,53.0,11.0,52.0,43.0,129.0,147.0,9.0
+Udupi,"Brahmagiri, Udupi - KSPCB",14-02-2025 17:00:00,34.37341772151899,6.178841309823677,31.0,21.0,90.0,79.0,7.0
+Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",14-02-2025 17:00:00,74.0,5.0,45.0,27.0,110.0,110.0,14.0
+Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",14-02-2025 17:00:00,18.0,3.0,43.0,39.0,111.0,69.0,20.0
+Vapi,"Phase-1 GIDC, Vapi - GPCB",14-02-2025 17:00:00,34.37341772151899,10.0,14.0,2.0,101.23632385120351,99.0,44.0
+Varanasi,"Ardhali Bazar, Varanasi - UPPCB",14-02-2025 17:00:00,12.0,6.178841309823677,28.0,29.0,18.0,21.0,17.0
+Varanasi,"Bhelupur, Varanasi - UPPCB",14-02-2025 17:00:00,2.0,1.0,8.0,10.0,28.0,10.0,32.0
+Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",14-02-2025 17:00:00,3.0,4.0,2.0,3.0,19.0,8.0,30.0
+Varanasi,"Maldahiya, Varanasi - UPPCB",14-02-2025 17:00:00,34.37341772151899,1.0,2.0,9.0,55.0,13.0,27.0
+Vatva,"Phase-4 GIDC, Vatva - GPCB",14-02-2025 17:00:00,78.0,7.0,61.0,2.0,183.0,136.0,16.0
+Vellore,"Vasanthapuram, Vellore - TNPCB",14-02-2025 17:00:00,21.0,6.178841309823677,35.87305122494432,2.0,101.23632385120351,80.5592105263158,12.0
+Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",14-02-2025 17:00:00,23.0,1.0,9.0,16.0,47.0,37.0,17.03181818181818
+Vijayawada,"HB Colony, Vijayawada - APPCB",14-02-2025 17:00:00,26.0,4.0,8.0,25.0,53.0,56.0,9.0
+Vijayawada,"Kanuru, Vijayawada - APPCB",14-02-2025 17:00:00,23.0,6.178841309823677,35.87305122494432,23.0,65.0,66.0,14.0
+Vijayawada,"Rajiv Gandhi Park, Vijayawada - APPCB",14-02-2025 17:00:00,46.0,6.178841309823677,35.87305122494432,19.0,101.23632385120351,80.5592105263158,17.03181818181818
+Vijayawada,"Rajiv Nagar, Vijayawada - APPCB",14-02-2025 17:00:00,21.0,4.0,10.0,28.0,60.0,64.0,20.0
+Virar,"Bolinj, Virar - MPCB",14-02-2025 17:00:00,23.0,2.0,30.0,56.0,88.0,73.0,14.0
+Virudhunagar,"Collectorate Office, Virudhunagar - TNPCB",14-02-2025 17:00:00,22.0,5.0,16.0,46.304255319148936,68.0,49.0,18.0
+Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",14-02-2025 17:00:00,27.0,2.0,67.0,11.0,112.0,59.0,10.0
+Vrindavan,"Omex Eternity, Vrindavan - UPPCB",14-02-2025 17:00:00,28.0,11.0,12.0,11.0,72.0,11.0,27.0
+Yadgir,"Collector Office, Yadgir - KSPCB",14-02-2025 17:00:00,34.0,6.178841309823677,35.87305122494432,19.0,98.0,97.0,16.0
